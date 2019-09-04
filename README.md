@@ -1,1 +1,1 @@
-# liswes-exercises
+# LIS753-exercises
