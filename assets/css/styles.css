@@ -10,3 +10,8 @@ h1, h2 {
 a {
   color: #BAF2D8;
 }
+
+img {
+  max-width: 100%;
+  height: auto;
+}
