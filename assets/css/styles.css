@@ -1,17 +1,55 @@
 body {
     background-color: #BAD7F2;
     font-family: arial, sans-serif;
-}
+    }
 
-h1, h2 {
-  color: #FFE500;
-}
+    .wrapper {
+      background: #ffffff;
+      width: 60%;
+      max-width: 700px;
+      margin: 0 auto;
+      padding: 12px 20px;
 
-a {
-  color: #BAF2D8;
-}
+    }
 
-img {
-  max-width: 100%;
-  height: auto;
-}
+    h1, h2 {
+      color: #FFE500;
+      color: #CF995F;
+      <!-- Contrast: In my webpage, the contrast between my heading and paragraphs is something
+      to be in the page. It is more easy going to see the information with proper heading contrast and objects .The concept of constrast
+      can be helpful for visual and context overlook. -->
+
+    }
+
+    }
+    ul{
+      padding-left: 20px;
+      margin-top: 12px;
+      <!-- Proximity: Making the ul to be more closer to heading for a neat look -->
+    }
+    .image{
+      text-align: center;
+
+    }
+
+    p.caption {
+      font-style: italic
+      margin-top: 0;
+      <!-- Proximity: Proximity helps your website to tighthen up any
+      space between text and images. Your image and text will look more clean
+      and organize. Caption need to be closer to the text for a clean overview. -->
+
+    }
+
+    a {
+      color: #BAF2D8;
+      color: #96897B;
+    }
+
+    img {
+      max-width: 100%;
+      height: auto;
+      <!-- Proximity: In the end, proximity is a useful principle for a clean look
+      for your webstite or coding. It will look easy and concise programming output. -->
+
+    }
