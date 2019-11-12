@@ -34,8 +34,7 @@ body {
       <!-- Proximity: Making the ul to be more closer to heading for a neat look -->
     }
     .image{
-      text-align: center;
-
+margin: 2em 0;
     }
 
     p.caption {
