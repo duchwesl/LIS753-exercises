@@ -1,0 +1,38 @@
+body {
+    background-color: #BAD7F2;
+
+    <!-- Background color -->
+
+  }
+
+   h2 {
+    color: #E71D36;
+
+    <!-- Heading color -->
+
+
+    }
+
+    h1 {
+      color: #333333;
+      <!-- Heading color -->
+
+    }
+
+    .image{
+      text-align: center;
+    }
+
+    p.caption {
+      font-style: italic;
+      margin-top: 0;
+    }
+    ul{
+      padding-left: 20px;
+      margin-top: 12px;
+    }
+
+    img {
+      max-width: 100%;
+      height: auto;
+    }
