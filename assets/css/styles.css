@@ -2,7 +2,20 @@ body {
     background-color: #BAD7F2;
     font-family: arial, sans-serif;
     }
+                          table, th, td {
+                            border: 1px solid black;
+                            border-collapse: collapse;
 
+                          }
+
+                          td, th {
+                        border: 1px solid #dddddd;
+                        text-align: left;
+                        padding: 8px;
+                      }
+                      table {
+                        border-spacing: 15px;
+                      }
     .wrapper {
       background: #ffffff;
       width: 60%;
